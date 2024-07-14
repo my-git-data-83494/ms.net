@@ -1,0 +1,14 @@
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\bin\Debug\net6.0\asss1.exe
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\bin\Debug\net6.0\asss1.deps.json
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\bin\Debug\net6.0\asss1.runtimeconfig.json
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\bin\Debug\net6.0\asss1.dll
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\bin\Debug\net6.0\asss1.pdb
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\obj\Debug\net6.0\asss1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\obj\Debug\net6.0\asss1.AssemblyInfoInputs.cache
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\obj\Debug\net6.0\asss1.AssemblyInfo.cs
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\obj\Debug\net6.0\asss1.csproj.CoreCompileInputs.cache
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\obj\Debug\net6.0\asss1.dll
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\obj\Debug\net6.0\refint\asss1.dll
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\obj\Debug\net6.0\asss1.pdb
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\obj\Debug\net6.0\asss1.genruntimeconfig.cache
+C:\Desktop\DOTNetAssignment\AllAssignments\asss1\obj\Debug\net6.0\ref\asss1.dll

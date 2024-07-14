@@ -1,0 +1,14 @@
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\bin\Debug\net6.0\Four-Function_Calculator.exe
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\bin\Debug\net6.0\Four-Function_Calculator.deps.json
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\bin\Debug\net6.0\Four-Function_Calculator.runtimeconfig.json
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\bin\Debug\net6.0\Four-Function_Calculator.dll
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\bin\Debug\net6.0\Four-Function_Calculator.pdb
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\obj\Debug\net6.0\Four-Function_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\obj\Debug\net6.0\Four-Function_Calculator.AssemblyInfoInputs.cache
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\obj\Debug\net6.0\Four-Function_Calculator.AssemblyInfo.cs
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\obj\Debug\net6.0\Four-Function_Calculator.csproj.CoreCompileInputs.cache
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\obj\Debug\net6.0\Four-Function_Calculator.dll
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\obj\Debug\net6.0\refint\Four-Function_Calculator.dll
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\obj\Debug\net6.0\Four-Function_Calculator.pdb
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\obj\Debug\net6.0\Four-Function_Calculator.genruntimeconfig.cache
+C:\Desktop\DOTNetAssignment\AllAssignments\ConsoleApp1\obj\Debug\net6.0\ref\Four-Function_Calculator.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Four-Function_Calculator_Using_Do-While/1.0.0": {
+        "runtime": {
+          "Four-Function_Calculator_Using_Do-While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Four-Function_Calculator_Using_Do-While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

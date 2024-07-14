@@ -1,0 +1,14 @@
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\bin\Debug\net6.0\Four-Function_Calculator_Using_Do-While.exe
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\bin\Debug\net6.0\Four-Function_Calculator_Using_Do-While.deps.json
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\bin\Debug\net6.0\Four-Function_Calculator_Using_Do-While.runtimeconfig.json
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\bin\Debug\net6.0\Four-Function_Calculator_Using_Do-While.dll
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\bin\Debug\net6.0\Four-Function_Calculator_Using_Do-While.pdb
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\obj\Debug\net6.0\Four-Function_Calculator_Using_Do-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\obj\Debug\net6.0\Four-Function_Calculator_Using_Do-While.AssemblyInfoInputs.cache
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\obj\Debug\net6.0\Four-Function_Calculator_Using_Do-While.AssemblyInfo.cs
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\obj\Debug\net6.0\Four-Function_Calculator_Using_Do-While.csproj.CoreCompileInputs.cache
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\obj\Debug\net6.0\Four-Function_Calculator_Using_Do-While.dll
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\obj\Debug\net6.0\refint\Four-Function_Calculator_Using_Do-While.dll
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\obj\Debug\net6.0\Four-Function_Calculator_Using_Do-While.pdb
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\obj\Debug\net6.0\Four-Function_Calculator_Using_Do-While.genruntimeconfig.cache
+C:\Desktop\DOTNetAssignment\AllAssignments\Four-Function_Calculator_Using_Do-While\obj\Debug\net6.0\ref\Four-Function_Calculator_Using_Do-While.dll

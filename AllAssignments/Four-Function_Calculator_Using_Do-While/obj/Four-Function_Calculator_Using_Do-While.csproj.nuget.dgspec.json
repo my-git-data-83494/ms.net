@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Desktop\\DOTNetAssignment\\AllAssignments\\Four-Function_Calculator_Using_Do-While\\Four-Function_Calculator_Using_Do-While.csproj": {}
+  },
+  "projects": {
+    "C:\\Desktop\\DOTNetAssignment\\AllAssignments\\Four-Function_Calculator_Using_Do-While\\Four-Function_Calculator_Using_Do-While.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desktop\\DOTNetAssignment\\AllAssignments\\Four-Function_Calculator_Using_Do-While\\Four-Function_Calculator_Using_Do-While.csproj",
+        "projectName": "Four-Function_Calculator_Using_Do-While",
+        "projectPath": "C:\\Desktop\\DOTNetAssignment\\AllAssignments\\Four-Function_Calculator_Using_Do-While\\Four-Function_Calculator_Using_Do-While.csproj",
+        "packagesPath": "C:\\Users\\shree\\.nuget\\packages\\",
+        "outputPath": "C:\\Desktop\\DOTNetAssignment\\AllAssignments\\Four-Function_Calculator_Using_Do-While\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\shree\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
